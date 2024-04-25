@@ -1,5 +1,5 @@
 
-# Guía sobre Algoritmia, Python y Diagramas UML
+# Guía sobre Algoritmia, Python y Diagramas UML 
 
 Bienvenidos a este repositorio que ofrece recursos y explicaciones sobre el uso de algoritmia, Python, y diagramas UML en el desarrollo de software.
 
